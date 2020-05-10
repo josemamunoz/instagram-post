@@ -1,0 +1,55 @@
+body{ 
+	font-family: 'Source Sans Pro', sans-serif; 
+	background: black; 
+	margin:0; 
+	text-align: center;
+}
+header{ 
+	background: white; 
+	padding: 10px;
+}
+header h1{ 
+	margin:0;
+}
+#html5logo{
+	float: left;
+    margin-top: 20px;
+}
+#cinco{
+	float: left;
+	margin-right: 10px;
+}
+#ellipsisv{
+    text-align: right;
+    margin-top: 20px;
+}
+div.containter{ 
+	width:500px; 
+	margin: auto;
+}
+div.post{ 
+	background:white; 
+	margin: 30px;	
+}
+div.post img{ 
+	width:100%;
+}
+p.encabezado{	
+	float: left; 
+	margin: 10px;
+}
+.column{
+	float: left;
+    width: 40%;
+	text-align: left;
+	padding: 0 20px 20px 20px;
+}
+
+#bookmark{
+
+    text-align: right;
+}
+.descripcion{
+	text-align: justify;
+	padding: 0 20px 10px 20px;
+}
